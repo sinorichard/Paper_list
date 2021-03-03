@@ -51,15 +51,16 @@
 
 ## Reputation detection in social media streams
 
-Learning Similarity Functions for Topic Detection in Online Reputation Monitoring
+1. Learning Similarity Functions for Topic Detection in Online Reputation Monitoring
 
-Modelling Context with User Embeddings for Sarcasm Detection in Social Media
+2. Modelling Context with User Embeddings for Sarcasm Detection in Social Media
 
-Fake News Detection on Social Media: A Data Mining Perspective
+3. Fake News Detection on Social Media: A Data Mining Perspective
 
-Earthuake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
+4. Earthuake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
 
- Filtering and Polarity Detection for Reputation Management on Tweets 
+5.  Filtering and Polarity Detection for Reputation Management on Tweets 
+
 
 
 
