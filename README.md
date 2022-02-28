@@ -14,6 +14,9 @@
 
 7. Community Detection Based on Distance Dynamics
 
+8. Community detection in networks: A multidisciplinary review
+9. Community detection in attributed graphs: An embedding approach
+10. Network embedding for community detection in attributed networks
 
 
 
@@ -35,6 +38,13 @@
 7. Circle-based Recommendation in Online Social Networks
 
 8. Context-Aware Event Recommendation in Event-based Social Networks
+9. An efficient adaptive transfer neural network for social-aware recommendation
+10. HyperSoRec: Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation
+11. Knowledge-aware coupled graph neural network for social recommendation
+12. Graph neural networks for social recommendation
+13. A neural influence diffusion model for social recommendation
+14. Adaptive implicit friends identification over heterogeneous network for social recommendation
+15. Social recommendation with evolutionary opinion dynamics
 
 
 
@@ -46,6 +56,11 @@
 2. User Clustering Based Social Network Recommendation
 
 3. Collaborative user clustering for short text streams
+4. A survey of user profiling: State-of-the-art, challenges, and solutions
+5. User profiling through deep multimodal fusion
+6. Dynamic embeddings for user profiling in twitter
+7. Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
+8. Dynamic structural role node embedding for user modeling in evolving networks
 
 
 
@@ -60,6 +75,9 @@
 4. Earthuake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
 
 5.  Filtering and Polarity Detection for Reputation Management on Tweets 
+6.  Fake news detection on social media using geometric deep learning
+7.  Unsupervised fake news detection on social media: A generative approach
+8.  FakeBERT: Fake news detection in social media with a BERT-based deep learning approach
 
 
 
